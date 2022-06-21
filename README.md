@@ -20,6 +20,6 @@
 - Obtención de todos los estudiantes de un curso.
 - Realizar tests que prueben la funcionalidad realizada.
 
-## Esquema para explicar resolucion:
+## Esquema para explicar resolución:
 
 ![Arquitectura de modulos - BitTorrent - Página 9](https://user-images.githubusercontent.com/86788163/174847159-018c7f4a-272b-4f4d-b78b-f85d0a56a23d.png)
